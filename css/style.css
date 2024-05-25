@@ -700,7 +700,7 @@ span {
     }
 }
 
-@media(max-witdh:895px) {
+@media(max-width:895px) {
     #menu-icon {
         display: block;
     }
